@@ -1,5 +1,5 @@
 # Olá 👋, Eu sou Bruno Cândido
-### De São Lourenço, sul de Minas Gerais. Sou um entusiasta da tecnologia e atualmente estou me aprofundando em desenvolvimento full-stack. Tenho pouco mais de um ano de experiência em desenvolvimento e mais de 15 projetos feitos ao longo da minha jornada como estudante na Trybe.
+### De São Lourenço, sul de Minas Gerais. Sou um entusiasta da tecnologia e atualmente estou me aprofundando em desenvolvimento full-stack. Tenho pouco mais de um ano de experiência em desenvolvimento e mais de 20 projetos feitos ao longo da minha jornada como estudante na Trybe.
 <br/>
 <br/>
 
