@@ -1,5 +1,9 @@
 # Olá 👋, Eu sou Bruno Cândido
-### De São Lourenço, sul de Minas Gerais. Sou um entusiasta da tecnologia e atualmente estou me aprofundando em desenvolvimento full-stack. Tenho pouco mais de um ano de experiência em desenvolvimento e mais de 20 projetos feitos ao longo da minha jornada como estudante na Trybe.
+### Com mais de dois anos de experiência como desenvolvedor, sou comprometido com minha evolução e atualização com o mercado tecnológico.
+
+### Gosto de solucionar problemas e encaro as "dores" do usuário como oportunidade para propor inovações e melhorias.
+
+### Tenho flexibilidade e adaptabilidade em ambientes de trabalho e dou grande valor no trabalho em equipe. Acredito que combinar habilidades diversas potencializa os resultados e enriquece o processo de desenvolvimento.
 <br/>
 <br/>
 
